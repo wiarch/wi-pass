@@ -70,3 +70,7 @@ See [SECURITY.md](./SECURITY.md), [CLAUDE.md](./CLAUDE.md), and [docs/](./docs/)
 ## License
 
 To be determined after confirming the project's ownership, dependency licenses, and any third-party code. Do not copy Proton Pass branding, assets, source code, or proprietary materials.
+
+---
+
+Part of the **[WI Arch](https://github.com/wiarch)** ecosystem.
